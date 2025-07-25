@@ -94,8 +94,8 @@ Converted final model to ONNX in **two formats**:
 ## 📸 Screenshots
 
 > *(Add screenshots of your UI here)*  
-> ![Gradio UI Screenshot](#)  
-> ![Flask UI Screenshot](#)
+> ![Gradio UI Screenshot](https://github.com/SajjadHossain43/app-multi-label-classification-imdb/blob/main/Assets/hf-space.png)  
+> ![Flask UI Screenshot](https://github.com/SajjadHossain43/app-multi-label-classification-imdb/blob/main/Assets/render-service.png)
 
 ---
 
