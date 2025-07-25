@@ -56,7 +56,7 @@ Converted final model to ONNX in **two formats**:
 
 ✅ Both versions produce the same evaluation results.
 
-📦 **Quantized ONNX Model:** [Download here](#) <!-- 🔁 Replace with ONNX model link -->
+📦 **Quantized ONNX Model:** [Download here](https://drive.google.com/drive/folders/1MK2XDAeef6U1cSdeCdnOESnofPnBcO0s) <!-- 🔁 Replace with ONNX model link -->
 
 ---
 
