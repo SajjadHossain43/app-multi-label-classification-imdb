@@ -14,7 +14,7 @@ def process():
     client = Client('Sajjad43/app-multi-label-classification-imdb')
     result = client.predict(context=input_text, api_name='/predict')
     #if isinstance(result, list):
-        #result = ', '.join(result)
+        #result = ', '.join(result) 
     return jsonify({'result': result})
 
 if __name__ == '__main__':
