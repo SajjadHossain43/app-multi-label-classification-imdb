@@ -24,7 +24,7 @@ This project demonstrates end-to-end NLP for classifying video game genres based
   - `description`: Game description
   - `genres`: Multi-label genre tags
 
-📁 **Sample CSV:** [Download here](#) <!-- 🔁 Replace with your actual dataset link -->
+📁 **Final CSV:** [Download here](https://github.com/SajjadHossain43/app-multi-label-classification-imdb/tree/main/Dataset) <!-- 🔁 Replace with your actual dataset link -->
 
 ---
 
@@ -56,7 +56,7 @@ Converted final model to ONNX in **two formats**:
 
 ✅ Both versions produce the same evaluation results.
 
-📦 **Quantized ONNX Model:** [Download here](#) <!-- 🔁 Replace with ONNX model link -->
+📦 **Quantized ONNX Model:** [Download here](https://drive.google.com/drive/folders/1MK2XDAeef6U1cSdeCdnOESnofPnBcO0s) <!-- 🔁 Replace with ONNX model link -->
 
 ---
 
@@ -94,8 +94,8 @@ Converted final model to ONNX in **two formats**:
 ## 📸 Screenshots
 
 > *(Add screenshots of your UI here)*  
-> ![Gradio UI Screenshot](#)  
-> ![Flask UI Screenshot](#)
+> ![Gradio UI Screenshot](https://github.com/SajjadHossain43/app-multi-label-classification-imdb/blob/main/Assets/hf-space.png)  
+> ![Flask UI Screenshot](https://github.com/SajjadHossain43/app-multi-label-classification-imdb/blob/main/Assets/render-service.png)
 
 ---
 
